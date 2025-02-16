@@ -92,7 +92,7 @@ Redis — это хранилище данных в памяти, которое
 Сначала клонируйте репозиторий на свой локальный компьютер:
 
 ```bash
-git clone https://github.com/DevKittyIlnazik/base_telegram_bot.git
+git clone https://github.com/dev-pegorino/base_telegram_bot.git
 ```
 
 ## 2. Переход в директорию проекта
